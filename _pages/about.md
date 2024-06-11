@@ -29,8 +29,6 @@ Research Overview
 Research Experience
 ------
 - University of Science and Technology of China, Hefei, China, 2020.09 - 2024.06
-
-Information and Language Processing Lab
   - list item 1
   - list item 2 (indent 1 space)
 
