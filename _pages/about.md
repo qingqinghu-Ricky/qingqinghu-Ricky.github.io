@@ -14,8 +14,8 @@ I obtained my Ph.D. of Cyberspace Security  from University of Science and Techn
 News
 ------
 
-* A list item
-with additional text
+* [2024.06] I graduated from USTC with a PhD degree!
+
 
 Research Overview
 ------
