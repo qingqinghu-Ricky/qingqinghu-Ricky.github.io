@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I obtained my Ph.D. of Cyberspace Security  from University of sicence and technology of China (USTC) in 2024, where my advisor was Prof. Chen Gong. Previously, I obtained my M.E. of Electronics and Communication Engineering from USTC with honor in 2019, and B.E. of Electronic Information Engineering from Dalian University of Technology (DUT) with honor in 2016. My research interests lie in Information Security, Signal Processing, and Wireless Communication.  Feel free to contact me if you want to discuss or collaborate!
+I obtained my Ph.D. of Cyberspace Security  from University of Science and Technology of China (USTC) in 2024, where my advisor was Prof. Chen Gong. Previously, I obtained my M.E. of Electronics and Communication Engineering from USTC with honor in 2019, and B.E. of Electronic Information Engineering from Dalian University of Technology (DUT) with honor in 2016. My research interests lie in Information Security, Signal Processing, and Wireless Communication.  Feel free to contact me if you want to discuss or collaborate!
 
 
 
