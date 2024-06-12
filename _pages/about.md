@@ -47,6 +47,6 @@ Work Experience
 
 Reviewer Experience
 ------
-I have reviewed 20+ papers for journals like TIFS, CL, Open Journal of the Communications Society, Telecommunication Systems, and  conferences like 
-ICCC@24, WCNC@24, Globecom@23/22, IPCCC@23, ICC@22, CSNDSP@22, and WCSP@21.
+I have reviewed 10+ papers for journals like TIFS, CL, Open Journal of the Communications Society, Telecommunication Systems, and  conferences like 
+ICCC@24, WCNC@24, Globecom@23/22, IPCCC@23, ICC@22, CSNDSP@22, WCSP@21.
 
