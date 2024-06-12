@@ -10,7 +10,6 @@ redirect_from:
 I obtained my Ph.D. of Cyberspace Security  from University of Science and Technology of China (USTC) in 2024, where my advisor was Prof. Chen Gong. Previously, I obtained my M.E. of Electronics and Communication Engineering from USTC  in 2019, and B.E. of Electronic Information Engineering from Dalian University of Technology (DUT) in 2016. My research interests lie in Information Security, Signal Processing, and Wireless Communication.  Feel free to contact me if you want to discuss or collaborate!
 
 
-
 News
 ------
 
@@ -29,9 +28,22 @@ Research Overview
 Research Experience
 ------
 - University of Science and Technology of China, Hefei, China, 2020.09 - 2024.06
-  - list item 1
-  - list item 2 (indent 1 space)
+  - Research Assistant in Optical Wireless Communication & Network Center
+  - Advisor: Chen Gong
 
+- University of Science and Technology of China, Hefei, China, 2016.09 - 2019.06
+  - Research Assistant in Optical Wireless Communication & Network Center
+  - Advisor: Xianqing Jin
+ 
+- China UnionPay (headquarters), Shanghai, China, 2018.06 - 2018.08
+  - Research Intern in Information center
+  - Mentor: Kun Wang
+
+**Work Experience**
+**------**
+- State Grid Economic Research Institute, Hefei, China, 2019.09 - 2020.06
+  - Assistant Engineer in Design & Planning Center
+  - Mentor: Jianxiong Jia
 
 Reviewer Experience
 ------
