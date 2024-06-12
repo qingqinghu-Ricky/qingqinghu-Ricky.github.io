@@ -33,7 +33,7 @@ Research Overview
 Future Research Themes
 ------
 - **IoT(OWC&RF) + Security**
-- **IoT(OWC&RF) + Communication system optimization based on DL**
+- **IoT(OWC&RF) + Communication System Optimization Based on DL**
 
 Research Experience
 ------
