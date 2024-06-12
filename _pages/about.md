@@ -36,11 +36,11 @@ Research Experience
   - Advisor: Xianqing Jin
  
 - China UnionPay (headquarters), Shanghai, China, 2018.06 - 2018.08
-  - Research Intern in Information center
+  - Research Intern in Information Center
   - Mentor: Kun Wang
 
-**Work Experience**
-**------**
+Work Experience
+------
 - State Grid Economic Research Institute, Hefei, China, 2019.09 - 2020.06
   - Assistant Engineer in Design & Planning Center
   - Mentor: Jianxiong Jia
