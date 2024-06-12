@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 1. **Covert Transmission in Water-to-Air Optical Wireless Communication Systems**
-  - <font color=DarkOliveGreen>Qingqing Hu</font>, Tianrui Lin, Tianjian Wei, Nuo Huang, Yi-Jun Zhu, and Chen Gong
+  - <span color=DarkOliveGreen>Qingqing Hu</span>, Tianrui Lin, Tianjian Wei, Nuo Huang, Yi-Jun Zhu, and Chen Gong
   - *IEEE Transactions on Information Forensics and Security*, vol. 19, pp. 4432-4447, 2024. [[Paper]](/files/TIFS_Covert_Transmission.pdf)
-  - 
-<font color=DarkOliveGreen>Qingqing Hu</font>, Tianrui Lin, Tianjian Wei, Nuo Huang, Yi-Jun Zhu, and Chen Gong
+    
+
