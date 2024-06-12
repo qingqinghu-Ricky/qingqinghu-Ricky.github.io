@@ -31,17 +31,17 @@ Research Experience
   - Research Assistant in Optical Wireless Communication & Network Center
   - Advisor: Chen Gong
 
-- University of Science and Technology of China, Hefei, China, 2016.09 - 2019.06
+- **University of Science and Technology of China**, Hefei, China, 2016.09 - 2019.06
   - Research Assistant in Optical Wireless Communication & Network Center
   - Advisor: Xianqing Jin
  
-- China UnionPay (headquarters), Shanghai, China, 2018.06 - 2018.08
+- **China UnionPay (headquarters)**, Shanghai, China, 2018.06 - 2018.08
   - Research Intern in Information Center
   - Mentor: Kun Wang
 
 Work Experience
 ------
-- State Grid Economic Research Institute, Hefei, China, 2019.09 - 2020.06
+- **State Grid Economic Research Institute**, Hefei, China, 2019.09 - 2020.06
   - Assistant Engineer in Design & Planning Center
   - Mentor: Jianxiong Jia
 
