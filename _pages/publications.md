@@ -18,6 +18,8 @@ author_profile: true
 3. **Secrecy Performance Analysis for Water-to-Air Visible Light Communication**
   - <p><span style="color: ForestGreen">Qingqing Hu</span>, Chen Gong, Tianrui Lin, Jianghua Luo, and Zhengyuan Xu</p>
   - *IEEE Journal of Lightwave Technology*, vol. 40, no. 14, pp. 4607-4620, 2022. [[Paper]](/files/JLT_Secrecy_Performance.pdf)
-    
+4. **Comparison of Interpolation-based Sampling Frequency Offset Compensation Schemes for Practical OFDM-VLC Systems**
+  - <p><span style="color: ForestGreen">Qingqing Hu</span>, Xianqing Jin, Weijie Liu, Dewen Guo, Meiyu Jin, and Zhengyuan Xu</p>
+  - *OSA Optics Express*, vol. 28, no. 2, pp. 2337-2348, 2020. [[Paper]](/files/OE_Comparison.pdf)  
 
 
