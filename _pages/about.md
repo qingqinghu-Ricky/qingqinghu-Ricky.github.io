@@ -18,10 +18,9 @@ News
 
 Research Overview
 ------
-<!-- <img src="/images/system_model.JPG" width="30%" style="margin: 0 auto;">-->
-<div style="text-align:center;width:500px;border:greensolid1px;">
-<img alt="" src="/images/system_model.JPG" width="30%"  style="margin:0 auto;"/>
-</div>
+<img src=/images/system_model.JPG#pic_center width=60% />
+
+
 
 
 <!-- <img src="https://static.jyshare.com/images/runoob-logo.png" width="50%"> -->
