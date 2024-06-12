@@ -24,19 +24,11 @@ Research Overview
 
 <!-- <img src="https://static.jyshare.com/images/runoob-logo.png" width="50%"> -->
 
--Secrecy Performance 
+-**Secrecy Performance**: Analyzed insecure region, strictly positive secrecy capacity and secrecy outage probability under surface fluctuation, refraction and underwater scattering in dynamic water-to-air optical wireless communication scenarios.
 
-Analyzed insecure region, strictly positive secrecy capacity and secrecy outage probability under surface fluctuation, refraction
-and underwater scattering in dynamic water-to-air optical wireless communication scenarios.
+-**Secrecy Scheme**: Proposed a physical layer security scheme  based on channel randomness, correlation between uplink and downlink, and signal diversity to prevent information from being cracked.
 
--Secrecy Scheme 
-
-Proposed a physical layer security scheme  based on channel randomness, correlation between uplink and downlink, and signal diversity to prevent information from being cracked.
-
--Covert Scheme
-
-Proposed a covert transmission scheme based on a secret selection of narrow waveband signal, device characteristics, and strong ambient
-radiation to prevent attacks on communication links.
+-**Covert Scheme**: Proposed a covert transmission scheme based on a secret selection of narrow waveband signal, device characteristics, and strong ambient radiation to prevent attacks on communication links.
 
 
 
