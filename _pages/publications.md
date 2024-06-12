@@ -23,6 +23,9 @@ author_profile: true
   - *OSA Optics Express*, vol. 28, no. 2, pp. 2337-2348, 2020. [[Paper]](/files/OE_Comparison.pdf)
 5. **Compensation of Sampling Frequency Offset With Digital Interpolation for OFDM-Based Visible Light Communication Systems**
   - <p><span style="color: ForestGreen">Qingqing Hu</span>, Xianqing Jin, and Zhengyuan Xu</p>
-  - *IEEE Journal of Lightwave Technology*, vol. 36, no. 23, pp. 5488-5497, 2018. [[Paper]](/files/JLT_Compensation.pdf)  
+  - *IEEE Journal of Lightwave Technology*, vol. 36, no. 23, pp. 5488-5497, 2018. [[Paper]](/files/JLT_Compensation.pdf)
+6. **Impact of Scattering on Communication and Secrecy Performance over Underwater Quantum Links**
+  - <p><span style="color: ForestGreen">Qingqing Hu</span>, Chen Gong, Nuo Huang, Jianghua Luo, and Zhengyuan Xu</p>
+  - *IEEE International Conference on Wireless Communications and Signal Processing (WCSP)*, Changsha, China, pp. 1-5, 2021. [[Paper]](/files/WCSP_Impact_of_Scattering.pdf)
 
 
