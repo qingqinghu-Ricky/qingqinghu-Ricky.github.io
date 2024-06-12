@@ -18,7 +18,7 @@ News
 
 Research Overview
 ------
-<img src=/images/system_model.JPG width="30%">
+<img src="/images/system_model.JPG" width="30%">
 
 
 
