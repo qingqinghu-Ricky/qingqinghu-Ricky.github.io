@@ -1,4 +1,4 @@
----
+![image](https://github.com/qingqinghu-Ricky/qingqinghu-Ricky.github.io/assets/81201511/b8438b34-5000-4fba-95c6-a60c50452444)---
 permalink: /
 title: "About Me"
 author_profile: true
@@ -22,19 +22,18 @@ Research Overview
 <img src="/images/system_model.JPG" width="50%">
 </div>
 
-
-
-
-
 <!-- <img src="https://static.jyshare.com/images/runoob-logo.png" width="50%"> -->
 
+-Secrecy Performance 
+Analyzed insecure region, strictly positive secrecy capacity and secrecy outage probability under surface fluctuation, refraction
+and underwater scattering in dynamic water-to-air optical wireless communication scenarios.
+-Secrecy Scheme 
+Proposed a physical layer security scheme  based on channel randomness, correlation between uplink and downlink, and signal diversity to prevent information from being cracked.
+-Covert Scheme
+Proposed a covert transmission scheme based on a secret selection of narrow waveband signal, device characteristics, and strong ambient
+radiation to prevent attacks on communication links.
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+
 
 Research Experience
 ------
