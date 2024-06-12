@@ -20,6 +20,9 @@ author_profile: true
   - *IEEE Journal of Lightwave Technology*, vol. 40, no. 14, pp. 4607-4620, 2022. [[Paper]](/files/JLT_Secrecy_Performance.pdf)
 4. **Comparison of Interpolation-based Sampling Frequency Offset Compensation Schemes for Practical OFDM-VLC Systems**
   - <p><span style="color: ForestGreen">Qingqing Hu</span>, Xianqing Jin, Weijie Liu, Dewen Guo, Meiyu Jin, and Zhengyuan Xu</p>
-  - *OSA Optics Express*, vol. 28, no. 2, pp. 2337-2348, 2020. [[Paper]](/files/OE_Comparison.pdf)  
+  - *OSA Optics Express*, vol. 28, no. 2, pp. 2337-2348, 2020. [[Paper]](/files/OE_Comparison.pdf)
+5. **Compensation of Sampling Frequency Offset With Digital Interpolation for OFDM-Based Visible Light Communication Systems**
+  - <p><span style="color: ForestGreen">Qingqing Hu</span>, Xianqing Jin, and Zhengyuan Xu</p>
+  - *IEEE Journal of Lightwave Technology*, vol. 36, no. 23, pp. 5488-5497, 2018. [[Paper]](/files/JLT_Compensation.pdf)  
 
 
