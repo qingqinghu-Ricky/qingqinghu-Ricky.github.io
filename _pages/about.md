@@ -29,7 +29,7 @@ Research Experience
 ------
 - **University of Science and Technology of China**, Hefei, China, 2020.09 - 2024.06
   - Research Assistant in Optical Wireless Communication & Network Center
-  - Advisor: Chen Gong
+  - Advisor: [Chen Gong](http://staff.ustc.edu.cn/~cgong821/)
 
 - **University of Science and Technology of China**, Hefei, China, 2016.09 - 2019.06
   - Research Assistant in Optical Wireless Communication & Network Center
