@@ -1,4 +1,4 @@
-![image](https://github.com/qingqinghu-Ricky/qingqinghu-Ricky.github.io/assets/81201511/b8438b34-5000-4fba-95c6-a60c50452444)---
+---
 permalink: /
 title: "About Me"
 author_profile: true
