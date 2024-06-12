@@ -33,7 +33,7 @@ Research Experience
 
 - **University of Science and Technology of China**, Hefei, China, 2016.09 - 2019.06
   - Research Assistant in Optical Wireless Communication & Network Center
-  - Advisor: Xianqing Jin
+  - Advisor: [Xianqing Jin](https://ieeexplore.ieee.org/author/37306691100).
  
 - **China UnionPay (headquarters)**, Shanghai, China, 2018.06 - 2018.08
   - Research Intern in Information Center
