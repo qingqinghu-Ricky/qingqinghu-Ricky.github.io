@@ -27,5 +27,10 @@ author_profile: true
 6. **Impact of Scattering on Communication and Secrecy Performance over Underwater Quantum Links**
   - <p><span style="color: ForestGreen">Qingqing Hu</span>, Chen Gong, Nuo Huang, Jianghua Luo, and Zhengyuan Xu</p>
   - *IEEE International Conference on Wireless Communications and Signal Processing (WCSP)*, Changsha, China, pp. 1-5, 2021. [[Paper]](/files/WCSP_Impact_of_Scattering.pdf)
-
+7. **Real-Time OFDM Receiver with Robust Frequency Synchronization for Visible Light Communication**
+  - <p><span style="color: ForestGreen">Qingqing Hu</span>, Xianqing Jin, Weijie Liu, Meiyu Jin, and Zhengyuan Xu</p>
+  - *Asia Communications and Photonics Conference (ACP)*, Chengdu, China, pp. 1-3, 2019. [[Paper]](/files/ACP_Real-Time.pdf)
+8. **Digital Compensation of Sampling Frequency Offset for OFDM-Based Visible Light Communication Systems**
+  - <p><span style="color: ForestGreen">Qingqing Hu</span>, Xianqing Jin, and Zhengyuan Xu</p>
+  - *IEEE International Conference on Communications Workshops (ICC Workshops)*,  Kansas City, USA, pp. 1-6, 2018. [[Paper]](/files/ICC_Digital_Compensation.pdf)
 
