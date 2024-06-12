@@ -18,7 +18,7 @@ News
 
 Research Overview
 ------
-<img src="图片地址" alt="" title=""><>
+<img src="/assets/images/electrocat.png" alt="" title=""><>
 <!-- <img src="https://static.jyshare.com/images/runoob-logo.png" width="50%"> -->
 
 
