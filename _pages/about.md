@@ -13,17 +13,9 @@ redirect_from:
 &#x1F308; News 
 ------
 <div style="height: 200px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
-    这是一个很长的段落。Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-    Vestibulum vehicula ex eu ultricies tincidunt. Aenean at tincidunt orci, ut efficitur massa. 
-    Pellentesque sit amet sapien vitae turpis elementum tristique. Quisque et nisl eros. 
-    Donec vitae velit nec nulla posuere laoreet a in arcu. Nam tempor odio et magna fermentum, 
-    ut aliquet mauris tincidunt. Sed nec semper urna, non aliquam tortor. Curabitur imperdiet 
-    velit eget elit maximus bibendum. Aliquam erat volutpat. Phasellus sollicitudin enim ligula, 
-    vitae dapibus odio fringilla nec. Donec eget libero eu metus suscipit facilisis. 
-    Integer fringilla tincidunt ante. Donec et urna at tortor suscipit fermentum. 
-    Etiam imperdiet aliquam felis sit amet rhoncus. Proin at nunc eget odio vulputate laoreet. 
-    Sed a purus mi. Pellentesque habitant morbi tristique senectus et netus et malesuada fames 
-    ac turpis egestas. Suspendisse potenti.
+   * [2024.06] I graduated from USTC with a PhD degree!
+   * [2019.06] I graduated from USTC with a Master degree!
+  
 </div>
 
 
