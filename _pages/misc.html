@@ -16,3 +16,27 @@ redirect_from:
                 </ul>
 
 <p><font size="+2"><strong>Photos</strong></font></p>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>并排显示图片示例</title>
+    <style>
+        .image-container {
+            display: flex;
+            justify-content: space-between;
+        }
+        .image-container img {
+            width: 45%; /* 调整图片宽度 */
+            height: auto; /* 保持图片的纵横比 */
+        }
+    </style>
+</head>
+<body>
+    <div class="image-container">
+        <img src="path/to/your/image1.jpg" alt="Image 1">
+        <img src="path/to/your/image2.jpg" alt="Image 2">
+    </div>
+</body>
+
+
