@@ -25,11 +25,25 @@ redirect_from:
 </dl>
 -->
 
-<pre style="max-height: 5px;">
-<code>##   [1]   1   2   3   4   5   6   7   8   9  10
-##  [11]  11  12  13  14  15  16  17  18  19  20
-##  ... ...</code>
-</pre>
+```{css, echo = TRUE}
+pre {
+  max-height: 300px;
+  overflow-y: auto;
+}
+
+pre[class] {
+  max-height: 100px;
+}
+```
+
+```{r}
+# 假如这里有 N 多行的代码
+if (1 + 1 == 2) {
+  # 然后再打印一个非常长的数据
+  print(mtcars)
+  # 如果不够长的话，再加上这行注释可能就够了
+}
+```
 
 * [2024.06] I graduated from USTC with a PhD degree!
 
