@@ -25,25 +25,7 @@ redirect_from:
 </dl>
 -->
 
-```{css, echo = TRUE}
-pre {
-  max-height: 300px;
-  overflow-y: auto;
-}
 
-pre[class] {
-  max-height: 100px;
-}
-```
-
-```{r}
-# 假如这里有 N 多行的代码
-if (1 + 1 == 2) {
-  # 然后再打印一个非常长的数据
-  print(mtcars)
-  # 如果不够长的话，再加上这行注释可能就够了
-}
-```
 
 * [2024.06] I graduated from USTC with a PhD degree!
 
