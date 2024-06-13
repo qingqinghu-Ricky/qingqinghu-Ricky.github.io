@@ -49,7 +49,7 @@ redirect_from:
   - Research Intern in Information Center
   - Mentor: Kun Wang
 
-Work Experience
+&#x1F304; Work Experience
 ------
 - **State Grid Economic Research Institute**, Hefei, China, 2019.09 - 2020.06
   - Assistant Engineer in Design & Planning Center
