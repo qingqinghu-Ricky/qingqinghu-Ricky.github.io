@@ -14,7 +14,12 @@ redirect_from:
 ------
 <div style="height: 200px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
    [2024.06] I graduated from USTC with a PhD degree! <br>
-   [2019.06] I graduated from USTC with a Master degree!
+   [2024.01] A paper was accepted by TIFS! <br>
+   [2023.01] A paper was accepted by JLT! <br>
+   [2022.04] A paper was accepted by JLT! <br>
+   [2021.09] A paper was accepted by JLT! <br>
+   [2019.06] I graduated from USTC with a Master degree! <br>
+   [2016.06] I graduated from USTC with a Bachelor degree! <br>
   
 </div>
 
