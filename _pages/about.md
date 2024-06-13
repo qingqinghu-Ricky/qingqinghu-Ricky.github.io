@@ -12,6 +12,7 @@ redirect_from:
 
 &#x1F308; News 
 ------
+<!-- 
 <dl style="background-color:rgba(230, 199, 243, 0.13)">
             <p></p>
             <a style="color:#6c3a3af2; font-size:18px"><b>&nbsp;&nbsp;Updates</b></a>  
@@ -22,7 +23,8 @@ redirect_from:
                 </ul>
   </div>
 </dl>
-  
+-->
+
 * [2024.06] I graduated from USTC with a PhD degree!
 
 
