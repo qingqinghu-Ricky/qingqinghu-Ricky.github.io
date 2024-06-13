@@ -12,13 +12,16 @@ redirect_from:
 
 &#x1F308; News 
 ------
- <p></p>
+<dl style="background-color:rgba(230, 199, 243, 0.13)">
+            <p></p>
+            <a style="color:#6c3a3af2; font-size:18px"><b>&nbsp;&nbsp;Updates</b></a>  
  <div class="myBox">
                 <ul>
 		  <li> [06/2024] Tutorial on <a href="https://explanation-llm.github.io" style="color:#9B0145;"> Explanation in the Era of Large Language Models @ NAACL 2024</a>
 		  <li> [04/2024] New preprint, <i>Will the Real Linda Please Stand up...to Large Language Models? Examining the Representativeness Heuristic in LLMs</i>, <a href="https://arxiv.org/pdf/2404.01461.pdf" style="color:#9B0145;"> arXiv</a>
                 </ul>
   </div>
+</dl>
   
 * [2024.06] I graduated from USTC with a PhD degree!
 
