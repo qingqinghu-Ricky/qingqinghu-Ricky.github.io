@@ -35,7 +35,7 @@ redirect_from:
 - **IoT(OWC&RF) + Security**
 - **IoT(OWC&RF) + Communication System Optimization Based on DL**
 
-Research Experience
+&#x1F30F; Research Experience
 ------
 - **University of Science and Technology of China**, Hefei, China, 2020.09 - 2024.06
   - Research Assistant in Optical Wireless Communication & Network Center
