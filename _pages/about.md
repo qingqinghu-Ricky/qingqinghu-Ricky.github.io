@@ -25,6 +25,12 @@ redirect_from:
 </dl>
 -->
 
+<pre style="max-height: 100px;">
+<code>##   [1]   1   2   3   4   5   6   7   8   9  10
+##  [11]  11  12  13  14  15  16  17  18  19  20
+##  ... ...</code>
+</pre>
+
 * [2024.06] I graduated from USTC with a PhD degree!
 
 
