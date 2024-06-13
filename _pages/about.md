@@ -12,18 +12,20 @@ redirect_from:
 
 &#x1F308; News 
 ------
-<!-- 
-<dl style="background-color:rgba(230, 199, 243, 0.13)">
-            <p></p>
-            <a style="color:#6c3a3af2; font-size:18px"><b>&nbsp;&nbsp;Updates</b></a>  
- <div class="myBox">
-                <ul>
-		  <li> [06/2024] Tutorial on <a href="https://explanation-llm.github.io" style="color:#9B0145;"> Explanation in the Era of Large Language Models @ NAACL 2024</a>
-		  <li> [04/2024] New preprint, <i>Will the Real Linda Please Stand up...to Large Language Models? Examining the Representativeness Heuristic in LLMs</i>, <a href="https://arxiv.org/pdf/2404.01461.pdf" style="color:#9B0145;"> arXiv</a>
-                </ul>
-  </div>
-</dl>
--->
+<div style="height: 200px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
+    这是一个很长的段落。Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+    Vestibulum vehicula ex eu ultricies tincidunt. Aenean at tincidunt orci, ut efficitur massa. 
+    Pellentesque sit amet sapien vitae turpis elementum tristique. Quisque et nisl eros. 
+    Donec vitae velit nec nulla posuere laoreet a in arcu. Nam tempor odio et magna fermentum, 
+    ut aliquet mauris tincidunt. Sed nec semper urna, non aliquam tortor. Curabitur imperdiet 
+    velit eget elit maximus bibendum. Aliquam erat volutpat. Phasellus sollicitudin enim ligula, 
+    vitae dapibus odio fringilla nec. Donec eget libero eu metus suscipit facilisis. 
+    Integer fringilla tincidunt ante. Donec et urna at tortor suscipit fermentum. 
+    Etiam imperdiet aliquam felis sit amet rhoncus. Proin at nunc eget odio vulputate laoreet. 
+    Sed a purus mi. Pellentesque habitant morbi tristique senectus et netus et malesuada fames 
+    ac turpis egestas. Suspendisse potenti.
+</div>
+
 
 
 
