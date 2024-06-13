@@ -21,7 +21,6 @@ redirect_from:
 
 
 
-* [2024.06] I graduated from USTC with a PhD degree!
 
 
 &#x2728; Research Overview  
