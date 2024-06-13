@@ -30,7 +30,7 @@ redirect_from:
 
 - **Covert Scheme**: Proposed a covert transmission scheme based on a secret selection of narrow waveband signal, device characteristics, and strong ambient radiation to prevent attacks on communication links.
 
-Future Research Themes
+&#x1F680; Future Research Themes
 ------
 - **IoT(OWC&RF) + Security**
 - **IoT(OWC&RF) + Communication System Optimization Based on DL**
