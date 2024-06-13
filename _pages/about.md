@@ -13,9 +13,9 @@ redirect_from:
 &#x1F308; News 
 ------
 <div style="height: 200px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
-   * [2024.06] I graduated from USTC with a PhD degree!
+   [2024.06] I graduated from USTC with a PhD degree!
   
-   * [2019.06] I graduated from USTC with a Master degree!
+   [2019.06] I graduated from USTC with a Master degree!
   
 </div>
 
