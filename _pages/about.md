@@ -19,7 +19,7 @@ redirect_from:
    [2022.04] A paper was accepted by JLT! <br>
    [2021.09] A paper was accepted by JLT! <br>
    [2019.06] I graduated from USTC with a Master degree! <br>
-   [2016.06] I graduated from USTC with a Bachelor degree! <br>
+   [2016.06] I graduated from DUT with a Bachelor degree! <br>
   
 </div>
 
