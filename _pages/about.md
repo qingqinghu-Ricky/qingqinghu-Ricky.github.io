@@ -16,7 +16,7 @@ News &#x1F308;
 * [2024.06] I graduated from USTC with a PhD degree!
 
 
-Research Overview  &#x1F6A9
+Research Overview  &#x1F6A9;
 ------
 <div align="center">
 <img src="/images/system_model.JPG" width="50%">
