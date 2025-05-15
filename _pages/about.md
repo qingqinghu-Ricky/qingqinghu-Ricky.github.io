@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p style="text-align:justify"> I have been a Lecturer (equivalent to  Assistant Professor) in  Hefei University of Technology in 2024.
-  I obtained my Ph.D. of Cyberspace Security  from the University of Science and Technology of China (USTC) in 2024, where my advisor was Prof. Chen Gong. Previously, and M.E. of Electronics and Communication Engineering from USTC  in 2019, and B.E. of Electronic Information Engineering from Dalian University of Technology (DUT) in 2016. My <b>research interests</b> lie in <b>Information Security</b>, <b>Signal Processing</b>, and <b>Wireless Communication</b>.  Feel free to contact me if you want to discuss or collaborate!</p>
+  I obtained my Ph.D. of Cyberspace Security  from the University of Science and Technology of China (USTC) in 2024,  and M.E. of Electronics and Communication Engineering from USTC  in 2019, and B.E. of Electronic Information Engineering from Dalian University of Technology (DUT) in 2016. My <b>research interests</b> lie in <b>Information Security</b>, <b>Signal Processing</b>, and <b>Wireless Communication</b>.  Feel free to contact me if you want to discuss or collaborate!</p>
 
 
 &#x1F308; News 
