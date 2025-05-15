@@ -9,7 +9,12 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-
+1. **Capacity Analysis for Optical Wireless Communication With Non-Monotonic Receiver Nonlinearity**
+  - <p>Tianrui Lin, Jingyin Tang, <span style="color: ForestGreen">Qingqing Hu</span>, Nuo Huang, Chen Gong</p>
+  - *IEEE Transactions on Wireless Communications*,  early access, 2025. [[Paper]](/files/PJ_Tianruilin_Real_Time.pdf)
+1. **Covert Water-to-Air Optical Wireless Communication Based on an Adversarial Autoencoder**
+  - <p><span style="color: ForestGreen">Qingqing Hu</span>, Nuo Huang, Yuwei Chen, Chen Gong </p>
+  - *IEEE Transactions on Cognitive Communications and Networking*,  early access, 2025. [[Paper]](/files/PJ_Tianruilin_Real_Time.pdf)
 1. **Multi-User Scheduling and Channel Characteristics for Water-to-Air Unmanned Vehicular Visible Light Communication**
   - <p>Tianjian Wei, Tianrui Lin, Nuo Huang, Chunfang Fu, Xinhui Liu, Liang Su, Li Tang, <span style="color: ForestGreen">Qingqing Hu</span>, Chen Gong</p>
   - *IEEE Transactions on Vehicular Technology*, vol. 73, no. 12, pp. 18705-18718, 2024. [[Paper]](/files/PJ_Tianruilin_Real_Time.pdf)
