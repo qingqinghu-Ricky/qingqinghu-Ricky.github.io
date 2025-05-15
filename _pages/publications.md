@@ -11,13 +11,13 @@ author_profile: true
 
 1. **Capacity Analysis for Optical Wireless Communication With Non-Monotonic Receiver Nonlinearity**
   - <p>Tianrui Lin, Jingyin Tang, <span style="color: ForestGreen">Qingqing Hu</span>, Nuo Huang, Chen Gong</p>
-  - *IEEE Transactions on Wireless Communications*,  early access, 2025. [[Paper]](/files/PJ_Tianruilin_Real_Time.pdf)
+  - *IEEE Transactions on Wireless Communications*,  early access, 2025. [[Paper]](/files/Capacity_Analysis_for_Optical_Wireless_Communication_With_Non-Monotonic_Receiver_Nonlinearity.pdf)
 1. **Covert Water-to-Air Optical Wireless Communication Based on an Adversarial Autoencoder**
   - <p><span style="color: ForestGreen">Qingqing Hu</span>, Nuo Huang, Yuwei Chen, Chen Gong </p>
-  - *IEEE Transactions on Cognitive Communications and Networking*,  early access, 2025. [[Paper]](/files/PJ_Tianruilin_Real_Time.pdf)
+  - *IEEE Transactions on Cognitive Communications and Networking*,  early access, 2025. [[Paper]](/files/TCCN_Covert_Water-to-Air_Optical_Wireless_Communication_Based_on_an_Adversarial_Autoencoder.pdf)
 1. **Multi-User Scheduling and Channel Characteristics for Water-to-Air Unmanned Vehicular Visible Light Communication**
   - <p>Tianjian Wei, Tianrui Lin, Nuo Huang, Chunfang Fu, Xinhui Liu, Liang Su, Li Tang, <span style="color: ForestGreen">Qingqing Hu</span>, Chen Gong</p>
-  - *IEEE Transactions on Vehicular Technology*, vol. 73, no. 12, pp. 18705-18718, 2024. [[Paper]](/files/PJ_Tianruilin_Real_Time.pdf)
+  - *IEEE Transactions on Vehicular Technology*, vol. 73, no. 12, pp. 18705-18718, 2024. [[Paper]](/files/TVT Multi-User_Scheduling_and_Channel_Characteristics_for_Water-to-Air_Unmanned_Vehicular_Visible_Light_Communication.pdf)
 1. **Real-time Water-to-Air Communication System Under Dynamic Water Surface and Strong Background Radiation**
   - <p>Tianrui Lin, Tianjian Wei, <span style="color: ForestGreen">Qingqing Hu</span>, Chunfang Fu, Nuo Huang, Xinhui Liu, Li Tang, Liang Su, Jianghua Luo, Chen Gong</p>
   - *IEEE Photonics Journal*, vol. 16, no. 4, pp. 1-10, 2024. [[Paper]](/files/PJ_Tianruilin_Real_Time.pdf)
