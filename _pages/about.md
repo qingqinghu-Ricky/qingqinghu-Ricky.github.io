@@ -16,7 +16,7 @@ redirect_from:
 ------
 <div style="height: 200px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
    [2025.01] A paper was accepted by TCCN! <br>
-   [2024.09] I became a Lecturer (equivalent to  Assistant Professor) in  Hefei University of Technology! <br>
+  <!-- 这是注释，不会显示在渲染后的页面中 [2024.09] I became a Lecturer (equivalent to  Assistant Professor) in  Hefei University of Technology! <br> -->
    [2024.06] I graduated from USTC with a PhD degree! <br>
    [2024.01] A paper was accepted by TIFS! <br>
    [2023.01] A paper was accepted by JLT! <br>
