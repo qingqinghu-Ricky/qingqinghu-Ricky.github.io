@@ -54,8 +54,7 @@ redirect_from:
 
 &#x1F30F; Research Experience
 ------
-  <!-- 这是注释，不会显示在渲染后的页面中 - **Hefei University of Technology**, Hefei, China, 2024.09 - now
-  - Lecturer in School of Computer and Information -->
+  <!-- 这是注释，不会显示在渲染后的页面中 - **Hefei University of Technology**, Hefei, China, 2024.09 - now - Lecturer in School of Computer and Information -->
 
 
     
