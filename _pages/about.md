@@ -15,6 +15,9 @@ redirect_from:
 &#x1F308; News 
 ------
 <div style="height: 200px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
+  [2026.09] A paper was accepted by TGCN! <br>
+   [2026.03] A paper was accepted by COMST! <br>
+   [2025.11] A paper was accepted by JSAC! <br>
    [2025.01] A paper was accepted by TCCN! <br>
   <!-- 这是注释，不会显示在渲染后的页面中 [2024.09] I became a Lecturer (equivalent to  Assistant Professor) in  Hefei University of Technology! <br> -->
    [2024.06] I graduated from USTC with a PhD degree! <br>
@@ -51,13 +54,18 @@ redirect_from:
 ------
 - **IoT(OWC&RF) + Security**
 - **IoT(OWC&RF) + Communication System Optimization Based on DL**
+- - **FSO + RIS**
 
 &#x1F30F; Research Experience
 ------
   <!-- 这是注释，不会显示在渲染后的页面中 - **Hefei University of Technology**, Hefei, China, 2024.09 - now - Lecturer in School of Computer and Information -->
 
+- **New York University Abu Dhabi**, Abu Dhabi, UAE, 2026.02 - Now
+  - Postdoctoral Researcher in NYUAD Wirelss Center
 
-    
+- **Hefei University of Technology**, Hefei, China, 2024.09 - 2026.02
+  - Lecturer (= Asst. Prof.) in the School of Computer Science and Information Engineering
+  
 - **University of Science and Technology of China**, Hefei, China, 2020.09 - 2024.06
   - Research Assistant in Optical Wireless Communication & Network Center
   - Advisor: [Chen Gong](http://staff.ustc.edu.cn/~cgong821/)
@@ -76,8 +84,8 @@ redirect_from:
   - Assistant Engineer in Design & Planning Center
   - Mentor: Jianxiong Jia
 
-&#x1F4DD; Reviewer Experience
+&#x1F4DD; Professional Service
 ------
-<p style="text-align:justify">I have reviewed 10+ papers for journals like <font color=FireBrick>TIFS, CL, Open Journal of the Communications Society, Telecommunication Systems</font>, and  conferences like <font color=FireBrick>ICCC@24, WCNC@24, Globecom@23/22, IPCCC@23, ICC@22, CSNDSP@22, WCSP@21</font>.</p>
+<p style="text-align:justify">I have reviewed 10+ papers for journals like <font color=FireBrick>IEEE TIFS, CL, TMC, TVT, JSAC, PTL, OC</font>, and  conferences like <font color=FireBrick>ICCC@24, WCNC@24, Globecom@23/22, IPCCC@23, ICC@22, CSNDSP@22, WCSP@21</font>. I have been a TPC Member for <font color=FireBrick>IEEE VTC-2027</font>.</p>
 
 
