@@ -54,7 +54,7 @@ redirect_from:
 ------
 - **IoT(OWC&RF) + Security**
 - **IoT(OWC&RF) + Communication System Optimization Based on DL**
-- - **FSO + RIS**
+-  **FSO + RIS**
 
 &#x1F30F; Research Experience
 ------
